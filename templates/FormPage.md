@@ -66,7 +66,7 @@
         <p><b>Python para Pentesters</b><br>Carga Horaria: 19 horas</p>
     </div>
     <div class="button">
-        <a href="salandin/templates/KnowPage.md"><button><p>Continue -></p></button></a>
+        <a href="templates/KnowPage.md"><button><p>Continue -></p></button></a>
     </div>
 </div>
 </body>
