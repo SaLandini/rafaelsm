@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <style>
     @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&display=swap');
@@ -43,7 +42,6 @@
 </style>
 <head>
     <meta charset="UTF-8">
-    <title>Salandin</title>
 </head>
 <body>
     <div class="initial">
@@ -52,7 +50,7 @@
                 <div class="text_button">
                     <p class="text">Eu me chamo Rafael Salandin Moraes, tenho 15 anos, estudo Data Science, Desenvolvimento Web,
                     e Segurança de Dado/Pentest, normalmente com python.</p>
-                 <a href="/templates/FormPage.md"><button><p>Continue -></p></button></a>
+                 <a href="salandin/templates/FormPage.md"><button><p>Continue -></p></button></a>
                 </div>
                 <img src="https://avatars3.githubusercontent.com/u/62630050?s=400&u=e747fa53ebfb82c18fff73bf928b713a2f2ecff5&v=4" alt="">
             </div>
