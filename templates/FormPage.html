@@ -1,8 +1,12 @@
 <html lang="pt-br">
 <style>
     @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&display=swap');
+    html {
+        background: url("https://miro.medium.com/max/5120/1*w2oP08XEq2YhDrVU5Yv3Pw.png");
+    }
     body {
         background-color: rgba(196, 125, 135, 0.95);
+        margin: 10px;
     }
     p, h1 {
         font-family: 'Lato', sans-serif;
@@ -20,6 +24,8 @@
     }
     .formação {
         border-radius: 30px;
+        margin-left: 10%;
+        margin-right: 10%;
         padding: 5%;
         background-color: aliceblue;
     }
@@ -66,7 +72,7 @@
         <p><b>Python para Pentesters</b><br>Carga Horaria: 19 horas</p>
     </div>
     <div class="button">
-        <a href="KnowPage.md"><button><p>Continue -></p></button></a>
+        <a href="{{ url_for('know') }}"><button><p>Continue -></p></button></a>
     </div>
 </div>
 </body>
