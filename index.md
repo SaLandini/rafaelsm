@@ -52,7 +52,7 @@
                 <div class="text_button">
                     <p class="text">Eu me chamo Rafael Salandin Moraes, tenho 15 anos, estudo Data Science, Desenvolvimento Web,
                     e Segurança de Dado/Pentest, normalmente com python.</p>
-                 <a href="/templates/FormPage.html"><button><p>Continue -></p></button></a>
+                 <a href="/templates/FormPage.md"><button><p>Continue -></p></button></a>
                 </div>
                 <img src="https://avatars3.githubusercontent.com/u/62630050?s=400&u=e747fa53ebfb82c18fff73bf928b713a2f2ecff5&v=4" alt="">
             </div>
